@@ -3,6 +3,7 @@
 
 Це простий калькулятор, написаний на **JavaScript**, який працює у браузері.  
 Він дозволяє виконувати базові математичні операції через діалогові вікна.
+<img width="1917" height="1087" alt="Screenshot 2026-01-16 180728" src="https://github.com/user-attachments/assets/59c90d88-761a-4a24-8c7f-d0a0f03c63ae" />
 
 ---
 
@@ -70,4 +71,5 @@
 ---
 
 ## ✨ Автор
+<img width="1147" height="1147" alt="qr-code (1)" src="https://github.com/user-attachments/assets/8f6325c4-474e-464a-bf4f-eef79a6b74d9" />
 
