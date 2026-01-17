@@ -71,5 +71,5 @@
 ---
 
 ## ✨ Автор
-<img width="1147" height="1147" alt="qr-code (1)" src="https://github.com/user-attachments/assets/8f6325c4-474e-464a-bf4f-eef79a6b74d9" />
+<img width="500" height="500" alt="qr-code (1)" src="https://github.com/user-attachments/assets/8f6325c4-474e-464a-bf4f-eef79a6b74d9" />
 
